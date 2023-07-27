@@ -1,7 +1,7 @@
 /* header and nav layout */
 header .nav-wrapper {
  /* background-color: var(--background-color); */
-  background-color: rgb(0, 139, 71);
+  background-color: #00A74A;
   font-color: white;
   width: 100%;
   z-index: 2;
