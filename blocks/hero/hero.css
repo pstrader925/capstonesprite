@@ -29,6 +29,8 @@ main .hero picture {
   bottom: 0;
   right: 0;
   object-fit: cover;
+  width: 50%;
+  height: 50%;
   box-sizing: border-box;
 }
 
