@@ -1,7 +1,7 @@
 footer {
   padding: 2rem;
   /* background-color: var(--overlay-background-color); */
-  background-color: #00A74A;
+  background-color: black;
   font-size: var(--body-font-size-s);
 }
 
