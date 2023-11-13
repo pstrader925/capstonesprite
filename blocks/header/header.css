@@ -2,10 +2,17 @@
 header .nav-wrapper {
  /* background-color: var(--background-color); */
   background-color: black;
-  text-color: white;
+  color: white;
   width: 100%;
   z-index: 2;
   position: fixed;
+  /*Opacity start*/
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+  filter: alpha(opacity=80);
+  -moz-opacity: 0.80;
+  -khtml-opacity: 0.8;
+  opacity: 0.8;
+  /*Opacity end*/
 }
 
 header nav {
@@ -18,7 +25,7 @@ header nav {
   gap: 0 2em;
   margin: auto;
   max-width: 1264px;
-  height: var(--nav-height);
+  height: 150px;
   padding: 0 1rem;
   font-family: var(--body-font-family);
  }
