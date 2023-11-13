@@ -2,6 +2,7 @@
 
 main .hero-container > div {
   max-width: unset;
+  color:white;
 }
   
 main .hero-container {
@@ -16,7 +17,7 @@ main .hero {
 
 main .hero h1 {
   max-width: 1200px;
-  margin-left: auto;
+  margin-left: 50%;
   margin-right: auto;
   color: white;
 }

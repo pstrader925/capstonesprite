@@ -1,10 +1,11 @@
 .columns > div {
   display: flex;
   flex-direction: column;
+  color:black
 }
 
 .columns img {
-  width: 100%;
+  width: 75%;
 }
 
 .columns > div > div {

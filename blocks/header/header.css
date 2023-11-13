@@ -57,7 +57,7 @@ header nav[aria-expanded="true"] {
   }
 }
 
-header nav p {
+header nav h1 {
   margin: 0;
   line-height: 1;
 }
